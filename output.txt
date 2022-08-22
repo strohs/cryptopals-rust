@@ -1,0 +1,305 @@
+trying keysize 2 block 0
+trying keysize 2 block 1
+trying keysize 3 block 0
+trying keysize 3 block 1
+trying keysize 3 block 2
+trying keysize 29 block 0
+   top3 84(T)     291.773  Ibhcl na ro 
+ncemmoiavano pt1dhgn an'  euY hbo.oxaa ef ygeyoar 
+hd
+o e bc  n'ueoanteraayo yio
+btdc,s
+  adding byte 84 for keysize 29 block 0
+trying keysize 29 block 1
+   top3 101(e)     342.174  'eis adnnuuiM'a nelnsen'nol - yi 
+k shtrton ln mi nI rGihr  romSt YwiaYoaal  r,mry  yyy  
+ emPohe, i
+   top3 98(b)    1490.833   bnt'fciirrnJ f'ibkitbi ihk'*'~n'l'tosushi'ki'jn'iN'u@nou''uhjTs'^pnf^hffk''u+ju~''~~~'''bjWhob+'n
+  adding byte 101 for keysize 29 block 1
+trying keysize 29 block 2
+   top3 114(r)     267.560  mllttl iogtty,u
+,  'e   efau2
+mleIe- ao, uomy!Vicwdcaeln ethtuip monnrOdnnycae eettdb ,gwLt.elyar Cc
+   top3 117(u)    1517.333  jkkssk'nh`ss~+r+'' b'''bafr5jkbNb*'fh+'rhj~&Qndpcdfbki'bsosrnw'jhiiuHcii~dfb'bbssce'+`pKs)bk~fu'Dd
+  adding byte 114 for keysize 29 block 2
+trying keysize 29 block 3
+   top3 109(m)     189.039   leahltlt h   sA 
+t  mdp fyp-Feif  -nn  n' y  anai eraugt halnnaleu  .!y dra  d  iheo- ohah  a t wo 
+   top3 106(j)     683.307  'kbfoksks'o'''tF's''jcw'a~w*Abna''*ii''i '~''fifn'bufr`s'ofkiifkbr'')&~'cuf''c''nobh*'hofo''f's'ph'
+   top3 33(!)    3969.976  l )-$ 8 8l$lll?lF8ll!(<l*5<a
+)%*lla""ll"kl5ll-"-%l)>-9+8l$- ""- )9llbm5l(>-ll(ll%$)#al#$-$ll-l8l;#l
+  adding byte 109 for keysize 29 block 3
+trying keysize 29 block 4
+   top3 105(i)     237.334  b  sa hl k fpGentSha
+ealy   3ossfch oggpolt eCn'tng eke hserederi  am  's ilf
+ou
+maad-g iya
+oyy nhm
+
+   top3 110(n)     827.841  e''tf'ok'l'aw@bisTofbfk~'''4httado'h``whks'bDi si`'blb'otbubcbun''fj'' t'nkahrjffc*`'n~fh~~'ioj
+  adding byte 105 for keysize 29 block 4
+trying keysize 29 block 5
+   top3 110(n)     347.922  a
+tyttealialoo dhoelT naamta r teaeS  ertliGaoi ioii s teo dd ,kkomny
+asmdcliL pYetdy o
+t t
+n ofoie
+  adding byte 110 for keysize 29 block 5
+trying keysize 29 block 6
+   top3 97(a)     172.441  cAh 'h 'acnos t e  lhacy'yhnY aicnrad
+ta  motmlhn rsb 
+o nV  
+ aenid 
+n eos tet o,   P ped P,tuuwt 
+   top3 102(f)     545.574  dFo' o' fdiht's'b''kofd~ ~oi^'fndiufcsf''jhsjkoi'ute'h'iQ'''fbinc'i'bht'sbs'h+'''W'wbc'W+srrps'
+  adding byte 97 for keysize 29 block 6
+trying keysize 29 block 7
+   top3 116(t)     408.476  k eisegszkdwsVhingsoene   rdogtct  meB ciged elag
+l uaM ggIlbTIm cg tYdgln m,thcu Iwalwl ofl h n eo
+  adding byte 116 for keysize 29 block 7
+trying keysize 29 block 8
+   top3 111(o)     180.670   r n mi y  ,eaaf etw d 
+who  ore twsnumtfe,,
+ ar S syrosh Piyh'aaehlio el'be  el a rnahabwuaCask
+ n
+   top3 104(h)     724.740  'u'i'jn'~''+bffa'bsp'c'poh''hub'sptirjsab++'fu'T't~uhto'Wn~o ffboknh'bk eb''bk'f'uifofeprfDftl'i
+  adding byte 111 for keysize 29 block 8
+trying keysize 29 block 9
+   top3 114(r)     326.096  aof m ro.iI 'nt 
+taeg b
+aeum-ooxaaeoytyi t  So dsoseievie
+ k emt  temuIt te st ownwodyiyonnyotayPb 
+  adding byte 114 for keysize 29 block 9
+trying keysize 29 block 10
+   top3 32( )     404.717  ncltyZln n lsi'yW gditeSnaga-dcpnktni  cy nhpnI o tln intNpetr ifa ne' ti lDohdsayan  t y k m y lo
+
+   top3 39(')     637.804  idks~]ki'i'ktn ~P'`cnsbTif`f*cdwilsin''d~'iowiN'h'ski'nisIwbsu'naf'ib 'sn'kChoctf~fi''s'~'l'j'~'kh
+  adding byte 32 for keysize 29 block 10
+trying keysize 29 block 11
+   top3 88(X)     338.303  dkyh 'i 
+ be lsohoe rhttndhk  iide. nyseonooa cl pol'jngtoo hejcanhd!rcitboa eaenwsgstet,aytef mayP
+   top3 95(_)     597.298  cl~o' n''eb'kthohb'uossicol''nncb)'i~tbhihhf'dk'whk mi`shh'obmdfioc&udnsehf'bfbipt`tsbs+f~sba'jf~W
+  adding byte 88 for keysize 29 block 11
+trying keysize 29 block 12
+   top3 58(:)     217.743   i eDset
+
+ettl uyf 
+lataa  eKloa   t'ot uo mgaeiyupi o' owsae'u,nda  ean ends n nh  ih h n h uiuy l
+   top3 61(=)     705.821  'n'bCtbsbssk'r~a'kfsff''bLkhf'''s hs'rh'j`fbn~rwn'h 'hptfb r+icf''bfi'bict'i'io''no'o'i'o'rnr~'k
+  adding byte 58 for keysize 29 block 12
+trying keysize 29 block 13
+   top3 32( )     268.148  Ing J shIIg oat  f
+Iiteg s
+ nuulta
+o,uym'wgehn kon n
+c a  s  ss a vmY n'
+ g twcaaew
+nabagdmaonts Ca
+   top3 39(')     709.078  Ni`'M'toNN`'hfs''aNnsb`'t'irrksfh+r~j p`boi'lhi'id'f''t''tt'f'qj^'i '`'spdffbpifef`cjfhist'Df
+  adding byte 32 for keysize 29 block 13
+trying keysize 29 block 14
+   top3 66(B)     283.496  ''ib 
+ e'tim  hdy T'e reloSiocsih 
+  'larhibedyeukc''kalgyeGb tItIeeow  Ss 
+eien reSgtoto utnk,itoy
+   top3 69(E)     725.547    ne''b snj''oc~'S b'ubkhTnhdtno''' kfuonebc~brld  lfk`~b@e'sNsNbbhp''Tt'bnbi'ubT`shsh'rsil+nsh~
+  adding byte 66 for keysize 29 block 14
+trying keysize 29 block 15
+   top3 114(r)     225.141  m raDHg m nytGeoo'hmsi  i otck dafIDYlekeerot e  sr Cinoro.ean 'i   uethoatYpt dbeao  y  bs ,y chm 
+   top3 117(u)     997.328  j'ufCO`'j'i~s@bhh ojtn''n'hsdl'cfaNC^kblbbuhs'b''tu'Dnihuh)bfi' n'''rbsohfs^ws'cebfh''~''et'+~'doj'
+   top3 124(|)    4739.098  c.|oJFi.c.`wzIkaa)fc}g..g.azme.johGJWbkekk|az.k..}|.Mg`a|a ko`.)g...{kzfaozW~z.jlkoa..w..l}."w.mfc.
+  adding byte 114 for keysize 29 block 15
+trying keysize 29 block 16
+   top3 105(i)     230.566   olceiom c  ho nuce  st2sl  k,
+otl'eol e rldtspas yaandnou rsogmctiy,aeo doo ct a k tf,fwoif  s aet
+   top3 44(,)     692.314  e*)& ,*(e&ee-*e+0& ee61w6)ee.iO*1)b *)e e7)!165$6e<$$+!+*0e76*"(&1,<i$ *e!**e&1e$e.e1#i#2*,#ee6e$ 1
+   top3 110(n)     695.316  'hkdbnhj'd''oh'irdb''ts5tk''l+hsk bhk'b'ukcstwft'~fficihr'uth`jdsn~+fbh'chh'ds'f'l'sa+aphna''t'fbs
+  adding byte 105 for keysize 29 block 16
+trying keysize 29 block 17
+   top3 110(n)     255.410  rnskstiilo
+ce!w' aris h teIs  Sc ymlu 
+saesyia, tsinu' go'
+me e  hto kltd  ubhodt
+,chu uhoculmaAt h
+   top3 105(i)     766.479  uitltsnnkhdb&p 'funt'o'sbNt''Td'~jkr'tfbt~nf+'stnir '`h jb'b''osh'lksc''reohcs+dor'rohdrkjfFs'o
+  adding byte 110 for keysize 29 block 17
+trying keysize 29 block 18
+   top3 103(g)     300.012  i   htnkenTo  atsuenaoa-et ooIuiy  i kO  , , y ratnds g vr
+astth
+o u'el,o
+I'a  ot
+ oingnig neuy  oa
+   top3 96(`)     591.602  n'''osilbiSh''fstrbifhf*bs'hhNrn~''n'lH''+'+'~'ufsict'`'quftssoh'r bk+hN f''hs'hni`in`'ibr~''hf
+  adding byte 103 for keysize 29 block 18
+trying keysize 29 block 19
+   top3 32( )     317.313  ntyoai'ettons
+y ts'  kn-n cun poogllcevpl 
+ w yhgo' elr
+ieSn rtaYu
+r9n  n'CrcdcnlYBmskoktitkts lfnt
+   top3 39(')     543.494  is~hfn bsshit~'st ''li*i'dri'whh`kkdbqwk''p'~o`h 'bkunbTi'usf^ru>i''i Dudcdik^Ejtlhlsnslst'kais
+  adding byte 32 for keysize 29 block 19
+trying keysize 29 block 20
+   top3 116(t)     444.505  ghefyn ,tr ci
+ gaesmy    tan leuuiiaaeeeonSyiieigp y ioAn t hiinogS 0iis'CEekou'eooe y yeeiy iiiu, 
+   top3 115(s)    1029.794  `oba~i'+su'dn'`fbtj~''''sfi'kbrrnnffbbbhiT~nnbn`w'~'nhFi's'onnih`T'7nnt DBblhr bhhb'~'~bbn~'nnnr+'
+  adding byte 116 for keysize 29 block 20
+trying keysize 29 block 21
+   top3 104(h)     221.970  iel  'c iojedSIir  y 
+aYthndsirs rkhnprraooottpne 
+owkol'aeNipnguhoe ntota,  crt uy s w   l mcttn f
+   top3 111(o)     414.513  nbk'' d'nhmbcTNnu''~'f^soictnut'uloiwuufhhhsswib'hplhk fbInwi`rohb'ishsf+''dus'r~'t'p'''k'jdssi'a
+  adding byte 104 for keysize 29 block 21
+trying keysize 29 block 22
+   top3 101(e)     432.472  n lmc rmnlupem viIn tAneoe  okc cle    ff ouh!,ortVuhevl mpatp'i t ai' , u pate m ,oomhmbalme  tkCu
+   top3 100(d)    1610.207  o!mlb!slomtqdl!whHo!u@odnd!!njb!bmd!!!!gg!nti -nsuWtidwm!lq`uq&h!u!`h&!-!t!q`ud!l!-nnlilc`mld!!ujBt
+   top3 105(i)    3152.292  b,`ao,~ab`y|ia,zeEb,xMbici,,cgo,o`i,,,,jj,cyd- c~xZydiz`,a|mx|+e,x,me+, ,y,|mxi,a, ccadanm`ai,,xgOy
+  adding byte 101 for keysize 29 block 22
+trying keysize 29 block 23
+   top3 32( )     285.451  'm euhaa'sst owen oohnya  fgmea
+a  
+ttaeepn      ra y i tapzti nt srs 
+ bsYino bet nnuiuon u w
+lyon
+   top3 39(')     634.286   j'broff tts'hpbi'hhoi~f''a`jbff''ssfbbwi''''''uf'~'n'sfw}sn'is'tut''et^nih'ebs'iirnrhi'r'pk~hi
+   top3 10(
+)    1260.801  G
+O_BKKYY^
+E]OD
+EEBDSK
+
+LMGOK K
+
+ ^^KOOZD
+
+
+
+
+
+XK
+S
+C
+^KZP^C
+D^
+YXY
+ 
+HYsCDE
+HO^
+DD_C_ED
+_
+] FSED
+  adding byte 32 for keysize 29 block 23
+trying keysize 29 block 24
+   top3 105(i)     401.274  'n'sf}i''st~hn' d'pbc''erhb'kNifTSuuiduk'wfNk~iw'Diso}nnnic uss''a^tbbhscub'o~+`tst~c~tooWb'jl
+   top3 110(n)     448.625   i
+ tazn  tsyoi 'c wed  
+buoe lInaSTrrncrl pa
+I
+lynp Cnthziiind'rtt  fYseeotdr
+e hy,gstsydyshhPe mk
+  adding byte 105 for keysize 29 block 24
+trying keysize 29 block 25
+   top3 111(o)     357.744  tkI
+try mm  etla odny ktIeno ma' nahyydt.a-r 
+'Iiiietr'hien n'o ahe
+maoo  uc ,S -oo  iei, oieil mey
+   top3 104(h)    1700.400  slNsu~'jj''bskf'hci~'lsNbih'jf 'ifo~~cs)f*u' Nnnnbsu onbi'i h'fobjfhh''rd'+T'*hh''nbn+'hnbnk'jb~
+  adding byte 111 for keysize 29 block 25
+trying keysize 29 block 26
+   top3 105(i)     230.137  henWid Iyylglhl ani  Iihtakdwyfmbdme i   c-osVmnknloha rsd'
+' wtpap'ysu mt he os-uue
+c c pucatalu  
+   top3 110(n)     952.611  obiPnc'N~~k`kok'fin''Nnosflcp~ajecjb'n'''d*htQjilikhof'utc  'pswfw ~tr'js'ob'ht*rrbd'd'wrdfsfkr''
+  adding byte 105 for keysize 29 block 26
+trying keysize 29 block 27
+   top3 115(s)     280.917  e  en 
+'  eol  dttspl de't  o r e srtno
+
+e bpI teglpezto   S onipt 8 trIahcinI q g'v
+ b gl  reyosom
+   top3 116(t)     683.718  b''bi' ''bhk''csstwk'cb s''h'u'b'tusihb'ewN'sb`kwb}sh'''T'hinws'?'suNfodniN'v'` q'e'`k''ub~hthj
+  adding byte 115 for keysize 29 block 27
+trying keysize 29 block 28
+   top3 101(e)     256.073   wel'aVmdmt i'ba rshoc  s i
+oraatmoeo'vB
+,OaoPco  al yruhbstgn ge d9y,  deandccuAhreSSoGoadC   uinu
+   top3 98(b)    1016.159  'pbk fQjcjs'n ef'utohd''t'nhuffsjhbh qE+HfhWdh''fk'~uroets`i'`b'c>~+''cbficddrFoubTTh@hfcD'''rnir
+  adding byte 101 for keysize 29 block 28
+decrypting with a key of length 29:  'Terminator X: Bring the ioise'
+----------------------------------------------------------------
+I'm back and I'm ringin''the bell 
+A rockin' on the mnke while the fly girls yell In ecstasy in the back of me'
+Well that's my DJ Deshay custin' all them Z's 
+Hittin' hfrd and the girlies goin' cra}y 
+Vanilla's on the mike, mai I'm not lazy. 
+
+I'm lettin''my drug kick in 
+It controls'my mouth and I begin 
+To juss let it flow, let my conceptt go 
+My posse's to the side ~ellin', Go Vanilla Go! 
+
+Smohth 'cause that's the way I wnll be 
+And if you don't give'a damn, then 
+Why you starin  at me 
+So get off 'cause I dontrol the stage 
+There's no'dissin' allowed 
+I'm in my opn phase 
+The girlies sa y thby love me and that is ok 
+Anc I can dance better than any'kid n' play 
+
+Stage 2 -- Yea'the one ya' wanna listen to It's off my head so let the eeat play through 
+So I can frnk it up and make it sound ghod 
+1-2-3 Yo -- Knock on somb wood 
+For good luck, I like'my rhymes atrocious 
+Supercakafragilisticexpialidocious 
+N'm an effect and that you cai bet 
+I can take a fly girl fnd make her wet. 
+
+I'm like Tamson -- Samson to Delilah 
+Shere's no denyin', You can tuy to hang 
+But you'll keep tuyin' to get my style 
+Over aid over, practice makes perfedt 
+But not if you're a loafeu. 
+
+You'll get nowhere, no pkace, no time, no girls 
+Soon'-- Oh my God, homebody, you wrobably eat 
+Spaghetti with f spoon! Come on and say it! 
+VIP. Vanilla Ice yep, yep, N'm comin' hard like a rhino Intoxicating so you stagger kike a wino 
+So punks stop tr~ing and girl stop cryin' 
+Vaiilla Ice is sellin' and you weople are buyin' 
+'Cause why'the freaks are jockin' like Drazy Glue 
+Movin' and groovii' trying to sing along 
+All shrough the ghetto groovin' tois here song 
+Now you're ama}ed by the VIP posse. 
+
+Steppnn' so hard like a German Nazn 
+Startled by the bases hittnn' ground 
+There's no trippii' on mine, I'm just gettin' cown 
+Sparkamatic, I'm hangin  tight like a fanatic 
+You tuapped me once and I thought shat 
+You might have it 
+So ssep down and lend me your ear'
+'89 in my time! You, '90 is'my year. 
+
+You're weakenin' aast, YO! and I can tell it 
+^our body's gettin' hot, so, to I can smell it 
+So don't bb mad and don't be sad 
+'Causb the lyrics belong to ICE, Yhu can call me Dad 
+You're pischin' a fit, so step back anc endure 
+Let the witch doctou, Ice, do the dance to cure So come up close and don't bb square 
+You wanna battle me'-- Anytime, anywhere 
+
+You toought that I was weak, Boy, ~ou're dead wrong 
+So come on+ everybody and sing this son` 
+
+Say -- Play that funky mutic Say, go white boy, go whise boy go 
+play that funky mutic Go white boy, go white bo~, go 
+Lay down and boogie anc play that funky music till ~ou die. 
+
+Play that funky mutic Come on, Come on, let me oear 
+Play that funky music woite boy you say it, say it 
+Wlay that funky music A littlb louder now 
+Play that funky'music, white boy Come on, Coje on, Come on 
+Play that funly music 
+
+----------------------------------------------------------------
