@@ -46,7 +46,7 @@ lazy_static! {
     // english_QuadGrams.txt maps 4 character quads to the number of times they occur in
     //   english texts, it contains 389373 quads.
 
-    // maps a quad-gram to its probability of occurring in english, as a logarithmic probability
+    // maps a quad-gram bytes to its probability of occurring in english, as a logarithmic probability
     pub static ref QUADGRAM_PROBS: HashMap<[u8; 4], f64> = {
         let mut m = HashMap::new();
         let f = File::open("./files/english_quadgrams.txt").expect("can find quadgram file");
@@ -64,17 +64,18 @@ lazy_static! {
 
 }
 
-/// criteria for a byte to be considered a valid english character
+/// criteria for a byte to be considered a valid english character in these challenges
 fn valid_english_byte(b: &u8) -> bool {
     b.is_ascii_alphanumeric() || b.is_ascii_punctuation() || matches!(*b, 10 | 32)
-    // line-feed or a space
 }
 
 /// use chi squared testing to see if the input bytes `bytes`, which are valid ASCII bytes,
-/// resemble english plaintext
-/// lower scores indicate a better likelihood of being english
-/// returns None if there is no possible way for `bytes` to be english text
-/// Some(score) if there is a chance that the bytes are english text
+/// resemble english plaintext.
+///
+/// Lower scores indicate a better likelihood of being english
+///
+/// Returns `None` if there is no possible way for `bytes` to be english text else
+/// `Some(f64)` if there is a chance that the bytes are english text
 pub fn chi2_score(bytes: &[u8]) -> Option<f64> {
     if !bytes.iter().all(|b| valid_english_byte(b)) {
         return None;
